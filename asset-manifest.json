@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ireland-tourism-project/static/css/main.5ce52cb1.css",
+    "main.js": "/ireland-tourism-project/static/js/main.5c43153e.js",
+    "static/js/453.93d1a553.chunk.js": "/ireland-tourism-project/static/js/453.93d1a553.chunk.js",
+    "static/media/killarney-national-park.jpg": "/ireland-tourism-project/static/media/killarney-national-park.d4db3b68e2b63da6a285.jpg",
+    "static/media/giant-causeway.jpg": "/ireland-tourism-project/static/media/giant-causeway.43102044bb98825e2e87.jpg",
+    "static/media/glendalough.jpg": "/ireland-tourism-project/static/media/glendalough.3f0e21bd93dd42b25cb3.jpg",
+    "static/media/ireland-map.jpg": "/ireland-tourism-project/static/media/ireland-map.aab14b4d0c8efe332cd0.jpg",
+    "static/media/cliffs-of-moher.jpg": "/ireland-tourism-project/static/media/cliffs-of-moher.013448740b8063aa86fc.jpg",
+    "static/media/guiness-storehouse.jpg": "/ireland-tourism-project/static/media/guiness-storehouse.f6d3f96a308a8e835422.jpg",
+    "static/media/ComicNeue-Regular.ttf": "/ireland-tourism-project/static/media/ComicNeue-Regular.f6e8f457de11c548d697.ttf",
+    "static/media/Macondo-Regular.ttf": "/ireland-tourism-project/static/media/Macondo-Regular.0f91bbd01192421b9786.ttf",
+    "static/media/rock-of-cashel.jpg": "/ireland-tourism-project/static/media/rock-of-cashel.ca50e3812653a2de000d.jpg",
+    "index.html": "/ireland-tourism-project/index.html",
+    "main.5ce52cb1.css.map": "/ireland-tourism-project/static/css/main.5ce52cb1.css.map",
+    "main.5c43153e.js.map": "/ireland-tourism-project/static/js/main.5c43153e.js.map",
+    "453.93d1a553.chunk.js.map": "/ireland-tourism-project/static/js/453.93d1a553.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ce52cb1.css",
+    "static/js/main.5c43153e.js"
+  ]
+}
